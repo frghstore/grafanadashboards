@@ -61,8 +61,8 @@
         "overrides": []
       },
       "gridPos": {
-        "h": 7,
-        "w": 5,
+        "h": 2,
+        "w": 2,
         "x": 0,
         "y": 0
       },
@@ -79,7 +79,7 @@
           "values": false
         },
         "text": {
-          "valueSize": 60
+          "valueSize": 30
         },
         "textMode": "value"
       },
