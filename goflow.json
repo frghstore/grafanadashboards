@@ -27,6 +27,7 @@
         ]
     },
     "description": "Metrics about the NetFlow+sFlow collector",
+    "notes": "Original Copyright (c) 2021, NetSampler. All rights reserved. Modified version under the same license."
     "editable": true,
     "fiscalYearStartMonth": 0,
     "graphTooltip": 0,
